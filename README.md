@@ -4,7 +4,13 @@ This repo shows how to use the DevTools service in WebdriverIO in order to make 
 
 ## How to run
 
-To run this simple test, simply run the following command:
+To run this simple test, first install your dependencies by running:
+
+```sh
+npm install
+```
+
+Then run the following command:
 
 ```sh
 npm run wdio
